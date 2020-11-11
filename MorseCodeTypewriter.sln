@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Igtampe.MorseCodeTypewriter", "Igtampe.MorseCodeTypewriter\Igtampe.MorseCodeTypewriter.csproj", "{0624FB2C-A905-425D-AF15-4159833AA8BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0624FB2C-A905-425D-AF15-4159833AA8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0624FB2C-A905-425D-AF15-4159833AA8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0624FB2C-A905-425D-AF15-4159833AA8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0624FB2C-A905-425D-AF15-4159833AA8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3E2CE17-F0B9-4181-BA8A-D0F1DC41C912}
+	EndGlobalSection
+EndGlobal
